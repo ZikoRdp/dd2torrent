@@ -5,9 +5,9 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
+  name: "WsA"
   comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
+  url: "https://objects.githubusercontent.com/github-production-release-asset-2e65be/612938986/af69162a-b5ee-4379-9183-34c49677628b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T144040Z&X-Amz-Expires=300&X-Amz-Signature=5829abb06ea5545a4dd0e3320f369ebd2be4f66b900fc2a2c6188674a85545cd&X-Amz-SignedHeaders=host&actor_id=157717436&key_id=0&repo_id=612938986&response-content-disposition=attachment%3B%20filename%3DMicrosoftCorporationII.WindowsSubsystemForAndroid_2311.40000.5.0_neutral_._8wekyb3d8bbwe.Msixbundle&response-content-type=application%2Foctet-stream"
   file_name: "android-studio-ide-201.7042882-windows.exe"
   piece_size: 19 # Check the README.md for recommended piece size
       
